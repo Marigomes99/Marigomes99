@@ -7,3 +7,5 @@
 - Nuvens: Azure 🟦, AWS 🟡, Google Cloud 🏳️
 - Banco de Dados: MySQL 🐬
 - Etc: PowerBI 🍕
+
+
